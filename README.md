@@ -41,19 +41,14 @@ Spherical plastic container
 ```
 
 ### Market Research
+![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/watermelon.jpg)
 "The Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned how to Escape" is a game where you control an in-game watermelon with a real-life watermelon by slapping it with your hand. It's an interesting, fun and unusual concept which makes for a fun and engaging experience.
 
-![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/watermelon.jpg)
-
+![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/cocktail.jpg)
 "Penultimo" is a katamari-like game where you play as a blob which collects blobs of different colours. The collest part about this game, is that it is hooked up to a big cocktail making contraption which creates a unique cocktail mix depending on what blobs you collect.
 
-![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/cocktail.jpg)
-
+![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/ball.jpg)
 "Incontroller" is a simple ball rolling game with an unusual way of increasing the difficulty. Instead of making the game itself harder, it makes the controller itself more difficult to use by making the arrow keys move both horizontally and vertically.
 
-![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/ball.jpg)
-
-"Orpheus Quest" is a rhythm game where you play on a harp. Not just any harp, but a laser harp. The ingenious contraption detects when your finger is obstructing a laser beam on the harp, which makes them function like strings.
-
 ![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/harp.jpg)
-
+"Orpheus Quest" is a rhythm game where you play on a harp. Not just any harp, but a laser harp. The ingenious contraption detects when your finger is obstructing a laser beam on the harp, which makes them function like strings.
