@@ -30,14 +30,14 @@ Infrared sensor - £4.40
 Teddy bear - £0.99
 Overall Cost - £7.37
 ```
-### Recycled Parts
+#### Recycled Parts
 ```
 Smartphone box
 Gaming mouse box
 Headphone parts
 Water bottle tip
 Piece of rubber from a glass dropper
-Two halves of a spherical plastic container
+Spherical plastic container
 ```
 
 ### Market Research
