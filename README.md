@@ -9,7 +9,7 @@ The teddy bear has e two DC motors in his arms and an infrared proximity sensor 
 ![alt text](https://github.com/JoachimRayski/comp140-worksheetB/blob/master/ControllerDesign.png)
 
 ## Cost Breakdown
-Infrared sensor - £4.40
+Infrared sensor - £4.40 /n
 2 6V DC motors - £1.98
 Teddy bear - £0.99
 Overall Cost - £7.37
