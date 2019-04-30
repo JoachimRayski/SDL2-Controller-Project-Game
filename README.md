@@ -9,10 +9,12 @@ The teddy bear has e two DC motors in his arms and an infrared proximity sensor 
 ![alt text](https://github.com/JoachimRayski/comp140-worksheetB/blob/master/ControllerDesign.png)
 
 ## Cost Breakdown
-Infrared sensor - £4.40 /n
+```
+Infrared sensor - £4.40
 2 6V DC motors - £1.98
 Teddy bear - £0.99
 Overall Cost - £7.37
+```
 
 ## Market Research
 "The Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned how to Escape" is a game where you control an in-game watermelon with a real-life watermelon by slapping it with your hand. It's an interesting, fun and unusual concept which makes for a fun and engaging experience.
