@@ -5,8 +5,13 @@
 "SUPER MICRO-BOT BEAR SURGERY ULTIMATE" is a game about a teddy bear who is undergoing nanobot surgery. The player remotely operates a nanobot in the bear's organism using a knob and a button, the knob rotates the bot and the button applies forward momentum. The player has to navigate the bot in such a way as to not damage teddy's healthy tissue and strike down any bacteria it encounters.
 
 ### Controller Design
-The teddy bear has e two DC motors in his arms and an infrared proximity sensor in his mouth. If his tissue becomes damaged in the game by the player, the motors activate and the bear starts freaking out in pain and moving his arms frantically. To calm him down, the player has to press an anaesthetic mask to his mouth for a set period of time. The bear then stops moving as if falling asleep.
-#### Controller Visualisation
+The controller is made up of two parts, the bot controller and the teddy bear.
+
+The bot controller is made out of a simple potentiometer and a button inside of a box. The potentiometer rotates the bot and the button applies forward momentum to it.
+
+The teddy bear has two DC motors in his arms and an infrared proximity sensor in his mouth. If his tissue becomes damaged in the game by the player, the motors activate and the bear starts freaking out in pain and moving his arms frantically. To calm him down, the player has to press an anaesthetic mask to his mouth for a set period of time. The bear then stops moving as if falling asleep.
+
+#### Controller Image
 ![alt text](https://github.com/JoachimRayski/comp140-worksheetB/blob/master/ControllerDesign.png)
 
 ### Cost Breakdown
