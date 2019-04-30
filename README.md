@@ -14,7 +14,7 @@ The teddy bear has two DC motors in his arms and an infrared proximity sensor in
 #### Controller Image
 ![alt text](https://github.com/JoachimRayski/comp140-worksheetB/blob/master/ControllerDesign.png)
 
-# User Stories
+### User Stories
 ```
 As a player, I want to rotate the micro-bot using a knob.
 As a player, I want to move the micro-bot forward using a button.
