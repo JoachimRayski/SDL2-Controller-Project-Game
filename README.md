@@ -48,7 +48,7 @@ Spherical plastic container
 
 ![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/readme_img/cocktail.jpg)
 
-"Penultimo" is a katamari-like game where you play as a blob which collects blobs of different colours. The collest part about this game, is that it is hooked up to a big cocktail making contraption which creates a unique cocktail mix depending on what blobs you collect.
+"Penultimo" is a katamari-like game where you play as a blob which collects blobs of different colours. The coolest part about this game is that it is hooked up to a big cocktail making contraption, which creates a unique cocktail mix depending on what blobs you collect.
 
 ![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/readme_img/ball.jpg)
 
