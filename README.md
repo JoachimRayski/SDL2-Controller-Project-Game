@@ -22,12 +22,22 @@ As a game, I want to interact with the teddy bear controller by activating his a
 As a teddy bear controller, I want to deactivate my arm motors by having an anaesthetic mask press onto my face.
 ```
 
-### Cost Breakdown
+### Parts Breakdown
+#### Bought Parts
 ```
 Infrared sensor - £4.40
 2 6V DC motors - £1.98
 Teddy bear - £0.99
 Overall Cost - £7.37
+```
+### Recycled Parts
+```
+Smartphone box
+Gaming mouse box
+Headphone parts
+Water bottle tip
+Piece of rubber from a glass dropper
+Two halves of a spherical plastic container
 ```
 
 ### Market Research
