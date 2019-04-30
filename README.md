@@ -2,17 +2,25 @@
 ## Game Proposal
 
 ### Game Mechanics
-"SUPER MICRO-BOT BEAR SURGERY ULTIMATE" is a game about a teddy bear who is undergoing nanobot surgery. The player remotely operates a nanobot in the bear's organism using a knob and a button, the knob rotates the bot and the button applies forward momentum. The player has to navigate the bot in such a way as to not damage teddy's healthy tissue and strike down any bacteria it encounters.
+"SUPER MICRO-BOT BEAR SURGERY ULTIMATE" is a game about a teddy bear who is undergoing micro-bot surgery. The player remotely operates a nanobot in the bear's organism using a knob and a button, the knob rotates the bot and the button applies forward momentum. The player has to navigate the bot in such a way as to not damage teddy's healthy tissue and strike down any bacteria it encounters.
 
 ### Controller Design
-The controller is made up of two parts, the bot controller and the teddy bear.
+The controller is made up of two parts, the micro-bot controller and the teddy bear.
 
-The bot controller is made out of a simple potentiometer and a button inside of a box. The potentiometer rotates the bot and the button applies forward momentum to it.
+The micro-bot controller is made out of a simple potentiometer and a button inside of a box. The potentiometer rotates the micro-bot and the button applies forward momentum to it.
 
 The teddy bear has two DC motors in his arms and an infrared proximity sensor in his mouth. If his tissue becomes damaged in the game by the player, the motors activate and the bear starts freaking out in pain and moving his arms frantically. To calm him down, the player has to press an anaesthetic mask to his mouth for a set period of time. The bear then stops moving as if falling asleep.
 
 #### Controller Image
 ![alt text](https://github.com/JoachimRayski/comp140-worksheetB/blob/master/ControllerDesign.png)
+
+# User Stories
+```
+As a player, I want to rotate the micro-bot using a knob.
+As a player, I want to move the micro-bot forward using a button.
+As a game, I want to interact with the teddy bear controller by activating his arm motors.
+As a teddy bear controller, I want to deactivate my arm motors by having an anaesthetic mask press onto my face.
+```
 
 ### Cost Breakdown
 ```
