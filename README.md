@@ -25,7 +25,7 @@ The teddy bear has two DC motors in his arms and an infrared proximity sensor in
 As a player, I want to rotate the micro-bot using a knob.
 As a player, I want to move the micro-bot forward using a button.
 As a game, I want to interact with the teddy bear controller by activating his arm motors.
-As a teddy bear controller, I want to deactivate my arm motors by having an anaesthetic mask press onto my face.
+As a teddy bear controller, I want to deactivate my arm motors when having an anaesthetic mask pressed on my face.
 ```
 
 ### Parts Breakdown
