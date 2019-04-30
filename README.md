@@ -12,7 +12,7 @@ The micro-bot controller is made out of a simple potentiometer and a button insi
 The teddy bear has two DC motors in his arms and an infrared proximity sensor in his mouth. If his tissue becomes damaged in the game by the player, the motors activate and the bear starts freaking out in pain and moving his arms frantically. To calm him down, the player has to press an anaesthetic mask to his mouth for a set period of time. The bear then stops moving as if falling asleep.
 
 #### Controller Image
-![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/readme_img/ControllerDesign.png)
+![alt text](https://github.com/JoachimRayski/SDL2-Controller-Project-Game/blob/master/readme_img/ControllerWhole.jpg)
 
 ### User Stories
 ```
