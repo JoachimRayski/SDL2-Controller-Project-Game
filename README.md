@@ -1,4 +1,10 @@
 # SUPER MICRO-BOT BEAR SURGERY ULTIMATE
+
+## Instructions
+To play the game without a controller, open up "Visual Studio Project\Debug\ControllerProjectGame.exe",
+write anything and press enter on the startup prompt.
+Use the arrow keys and spacebar to move.
+
 ## Game Proposal
 
 ### Game Mechanics
