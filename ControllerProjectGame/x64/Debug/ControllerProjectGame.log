@@ -1,0 +1,38 @@
+﻿main.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_RWFromFile referenced in function "void __cdecl Start_Game(void)" (?Start_Game@@YAXXZ)
+Object.obj : error LNK2001: unresolved external symbol SDL_RWFromFile
+main.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_DestroyWindow referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_GetKeyboardState referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "void __cdecl Start_Game(void)" (?Start_Game@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawBlendMode referenced in function "void __cdecl Start_Game(void)" (?Start_Game@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "void __cdecl Start_Game(void)" (?Start_Game@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_DestroyRenderer referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_GetTicks referenced in function "void __cdecl Start_Game(void)" (?Start_Game@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol SDL_Delay referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol SDL_Quit referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol Mix_OpenAudio referenced in function "void __cdecl Start_Game(void)" (?Start_Game@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol Mix_LoadWAV_RW referenced in function "void __cdecl Start_Game(void)" (?Start_Game@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol Mix_FreeChunk referenced in function "void __cdecl Restart(void)" (?Restart@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol Mix_PlayChannelTimed referenced in function "void __cdecl Start_Game(void)" (?Start_Game@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol Mix_HaltChannel referenced in function SDL_main
+main.obj : error LNK2019: unresolved external symbol Mix_CloseAudio referenced in function "void __cdecl Restart(void)" (?Restart@@YAXXZ)
+Object.obj : error LNK2019: unresolved external symbol SDL_MapRGB referenced in function "public: void __cdecl Object::MakeImage(struct SDL_Renderer *,int,int,char const *)" (?MakeImage@Object@@QEAAXPEAUSDL_Renderer@@HHPEBD@Z)
+Object.obj : error LNK2019: unresolved external symbol SDL_LoadBMP_RW referenced in function "public: void __cdecl Object::MakeImage(struct SDL_Renderer *,int,int,char const *)" (?MakeImage@Object@@QEAAXPEAUSDL_Renderer@@HHPEBD@Z)
+Object.obj : error LNK2019: unresolved external symbol SDL_SetColorKey referenced in function "public: void __cdecl Object::MakeImage(struct SDL_Renderer *,int,int,char const *)" (?MakeImage@Object@@QEAAXPEAUSDL_Renderer@@HHPEBD@Z)
+Object.obj : error LNK2019: unresolved external symbol SDL_CreateTextureFromSurface referenced in function "public: void __cdecl Object::MakeImage(struct SDL_Renderer *,int,int,char const *)" (?MakeImage@Object@@QEAAXPEAUSDL_Renderer@@HHPEBD@Z)
+Object.obj : error LNK2019: unresolved external symbol SDL_QueryTexture referenced in function "public: void __cdecl Object::MakeImage(struct SDL_Renderer *,int,int,char const *)" (?MakeImage@Object@@QEAAXPEAUSDL_Renderer@@HHPEBD@Z)
+Object.obj : error LNK2019: unresolved external symbol SDL_SetTextureBlendMode referenced in function "public: void __cdecl Object::MakeImage(struct SDL_Renderer *,int,int,char const *)" (?MakeImage@Object@@QEAAXPEAUSDL_Renderer@@HHPEBD@Z)
+Object.obj : error LNK2019: unresolved external symbol SDL_RenderCopyEx referenced in function "public: void __cdecl Object::Render(struct SDL_Renderer *,double)" (?Render@Object@@QEAAXPEAUSDL_Renderer@@N@Z)
+Character.obj : error LNK2019: unresolved external symbol SDL_HasIntersection referenced in function "public: void __cdecl Character::DetectCollision(struct SDL_Rect *,class SerialPort *)" (?DetectCollision@Character@@QEAAXPEAUSDL_Rect@@PEAVSerialPort@@@Z)
+Character.obj : error LNK2019: unresolved external symbol SDL_FreeSurface referenced in function "public: __cdecl Character::~Character(void)" (??1Character@@QEAA@XZ)
+Character.obj : error LNK2019: unresolved external symbol SDL_DestroyTexture referenced in function "public: __cdecl Character::~Character(void)" (??1Character@@QEAA@XZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Chimo\Desktop\SDL2-Controller-Project-Game\Libraries\lib\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Chimo\Desktop\SDL2-Controller-Project-Game\Libraries\lib\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Chimo\Desktop\SDL2-Controller-Project-Game\Libraries\lib\SDL2_mixer.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Chimo\Desktop\SDL2-Controller-Project-Game\x64\Debug\ControllerProjectGame.exe : fatal error LNK1120: 33 unresolved externals
