@@ -5,6 +5,8 @@ My game is about a teddy bear who is undergoing nanobot surgery. The player remo
 
 ## Controller Design
 The teddy bear has e two DC motors in his arms and an infrared proximity sensor in his mouth. If his tissue becomes damaged in the game by the player, the motors activate and the bear starts freaking out in pain and moving his arms frantically. To calm him down, the player has to press an anaesthetic mask to his mouth for a set period of time. The bear then stops moving as if falling asleep.
+### Controller Visualisation
+![alt text](https://github.com/JoachimRayski/comp140-worksheetB/blob/master/ControllerDesign.png)
 
 ## Cost Breakdown
 Infrared sensor - £4.40
